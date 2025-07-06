@@ -1,4 +1,4 @@
-# 🌌 Xstellar: Shine Bright, Learn Beyond the Stars
+# 🛸 Xstellar: Shine Bright, Learn Beyond the Stars
 
 **Xstellar** is your AI-powered learning companion — personalized, multimodal, and cosmic. Whether you're mastering Python or decoding photosynthesis, Xstellar crafts lessons and quizzes that adapt to *you* — all within a sleek, starry UI.
 
@@ -25,10 +25,30 @@
 ---
 
 ## 🌌 Get Started
-
 ```bash
-git clone https://github.com/xstellar/xstellar.git
-cd xstellar
+# 1️⃣ Clone the repo
+git clone https://github.com/Hansha111/Xstellar.git
+cd Xstellar
+
+# 2️⃣ Create and activate virtual environment
+python -m venv venv
+# Windows
+.\venv\Scripts\activate
+# macOS/Linux
+source venv/bin/activate
+
+# 3️⃣ Install dependencies
 pip install -r requirements.txt
-streamlit run app.py
+
+# 4️⃣ Add your HuggingFace API key
+# Create a .env file and add this line:
+HUGGINGFACEHUB_API_TOKEN=your_token_here
+
 ```
+
+📬 [Connect with Hansha](https://www.linkedin.com/in/hansha-rathod-34883a251/) and [Connect with Zeel](https://www.linkedin.com/in/aiyatullah-saiyed-8b4538251)
+🌟 [Star this repo](https://github.com/Hansha111/Xstellar) if you liked it!
+
+Shine Bright with Xstellar 🛸
+👩‍💻 Author
+Hansha & Zeel
