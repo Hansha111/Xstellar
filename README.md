@@ -46,9 +46,9 @@ HUGGINGFACEHUB_API_TOKEN=your_token_here
 
 ```
 
-📬 [Connect with Hansha](https://www.linkedin.com/in/hansha-rathod-34883a251/) and [Connect with Zeel](https://www.linkedin.com/in/aiyatullah-saiyed-8b4538251)
+📬 Connect with [Hansha](https://www.linkedin.com/in/hansha-rathod-34883a251/) and [Zeel](https://www.linkedin.com/in/aiyatullah-saiyed-8b4538251) <br>
 🌟 [Star this repo](https://github.com/Hansha111/Xstellar) if you liked it!
-
-Shine Bright with Xstellar 🛸
-👩‍💻 Author
+<br> <br>
+Shine Bright with Xstellar 🛸<br>
+👩‍💻 Author <br>
 Hansha & Zeel
