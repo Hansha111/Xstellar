@@ -1,0 +1,86 @@
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+env/
+.venv/
+
+# Environment variables
+.env
+*.env
+
+# Dependency directories
+site-packages/
+dist/
+build/
+*.egg-info/
+
+# Jupyter notebooks
+*.ipynb_checkpoints/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+*.bak
+*.swp
+*~
+
+# Model and dataset files
+*.bin
+*.pth
+*.h5
+*.pkl
+models/
+datasets/
+checkpoints/
+
+# Hugging Face cache
+.huggingface/
+transformers_cache/
+
+# Streamlit-specific ignores
+.streamlit/
+streamlit/static/
+streamlit/secrets.toml
+
+# AWS credentials and configs
+*.aws
+aws_config/
+aws_credentials/
+
+# Testing and coverage reports
+.coverage
+coverage/
+htmlcov/
+
+# Documentation build files
+docs/_build/
+docs/build/
+
+# Miscellaneous
+*.bak
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+
+# Project-specific ignores
+/cache/
+/data/
+/temp/
+/uploads/
