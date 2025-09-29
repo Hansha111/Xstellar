@@ -1,0 +1,2 @@
+python -m uvicorn backend.main:app --reload      
+see the backend folder if you want anything to install from requirement.txt also the supabase url and key should not be like this so please put it in env
